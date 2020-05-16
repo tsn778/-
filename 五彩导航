@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>五彩导航</title>
+        <style>
+            .n a{
+                display: inline-block;
+                width: 120px;
+                height: 58px;
+                background-color: pink;
+                text-align: center;
+                line-height:58px ;
+                color: white;
+                text-decoration: none;
+            }
+            .n .b1{
+                background: orange ;
+
+            }
+            .n .b1:hover{
+                background: goldenrod;
+            }
+            .n .b2{
+                background:blue ;
+
+            }
+            .n .b2:hover{
+                background:red;
+            }
+            .n .b3{
+                background: greenyellow ;
+
+            }
+            .n .b3:hover{
+                background: green;
+            }
+            .n .b4{
+                background: red ;
+
+            }
+            .n .b4:hover{
+                background: purple;
+            }
+            .n .b5{
+                background: pink;
+
+            }
+            .n .b5:hover{
+                background: yellowgreen;
+            }
+        </style>
+</head>
+<body>
+    <div class="n">
+        <a href="#" class="b1">五彩导航</a>
+        <a href="#" class="b2">五彩导航</a>
+        <a href="#" class="b3">五彩导航</a>
+        <a href="#" class="b4">五彩导航</a>
+        <a href="#" class="b5">五彩导航</a>
+    </div>
+</body>
+</html>
