@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>新闻界面</title>
+        <style>
+            body{
+                 font: 16px/28px 'Microsoft YaHei' ;  
+            }
+            h1{
+                    font-weight: 400;
+                    text-align: center;
+            }
+            a{
+                    text-decoration: none;
+            }
+            .gray{
+                    color:crimson;
+                    font-size: 12px;
+                    text-align: center;
+            }
+            .search{
+                color:grey;
+                   width: 170px;   
+            }
+            .btn{
+                    font-weight:700 ;
+            }
+            p{
+                    text-indent: 2em;
+            }
+            .pic{
+                    text-align: center;
+            }
+            .foot{
+                    color:grey;
+                    font-size: 12px;
+                    text-align: right;
+
+            }
+        </style>
+</head>
+
+<body>
+    <h1>决战决胜——习近平指挥脱贫攻坚进行时</h1>
+ <div class="gray">2020-05-16 10:20:41　来源: <a href="#">央视新闻</a>
+ <input type="text" value="请输入查询内容" class="search"> <button class="btn">搜索</button></div><hr>
+<h4>2020年</h4>
+<p>决战脱贫攻坚收官之年
+        如何做好疫情这一道“加试题”
+        如何跑出中国减贫的“加速度”
+        牵动领袖和国人的心
+        慎终如始 啃下最后的硬骨头
+        承前启后 关心今后长远之计
+        万众一心加油干
+        确保实现脱贫攻坚目标
+        这是必须兑现的承诺
+        这是必将完成的伟业</p>
+        <p class="pic">
+               <img src="pic.jpg" alt="">
+        </p>
+      <p class="foot">本文来源：央视新闻 责任编辑：李天奕_NN7528</p>  
+</body>
+</html>
